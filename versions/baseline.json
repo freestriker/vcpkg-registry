@@ -1,0 +1,8 @@
+{
+    "default": {
+        "opencv4": {
+            "baseline": "4.7.0",
+            "port-version": 6
+        }
+    }
+}
